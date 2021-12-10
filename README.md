@@ -8,4 +8,4 @@ When I'm not programming I like to unwind with a good film :vhs: (I use the New 
 
 Find me @[elliotrichard@protonmail.com](mailto:elliotrichard@protonmail.com)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes-ochre.vercel.app/api)
